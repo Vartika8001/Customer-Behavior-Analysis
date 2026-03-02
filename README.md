@@ -79,4 +79,4 @@ README.md
 
 ## 👩‍💻 Author
 **Vartika Jaiswal**  
-LinkedIn | GitHub
+
